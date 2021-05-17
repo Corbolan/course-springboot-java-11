@@ -4582,3 +4582,5 @@ org.apache.maven.project.ProjectBuildingException: Some problems were encountere
 2021-05-17 17:42:01,664 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2021-05-17 17:42:01,675 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-05-17 17:42:01,677 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-17 17:42:01,677 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-17 17:42:01,677 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\germa\Desktop\spring_projeto\JPA\course\src\test\resources
